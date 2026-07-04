@@ -1,0 +1,13 @@
+{
+  "name": "gtip-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "منصة التدريب التعاوني الذكية - وزارة الحج والعمرة",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  }
+}
